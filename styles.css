@@ -12,16 +12,16 @@
 }
 
 .left {
-    justify-self: flex-start;
+    align-self: flex-start;
 }
 
 .middle {
-    justify-self: center;
+    align-self: center;
     display: flex;
     flex-direction: column;
     align-items: center
 }
 
 .right {
-    justify-self: flex-end;
+    align-self: flex-end;
 }
