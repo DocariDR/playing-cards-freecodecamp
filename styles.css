@@ -5,3 +5,8 @@
     justify-content: center;
     gap: 20px;
 }
+
+.card {
+    display: flex;
+    justify-content: space-between;
+}
