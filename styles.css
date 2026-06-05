@@ -14,3 +14,7 @@
 .middle {
     justify-self: center;
 }
+
+.right {
+    justify-self: flex-end;
+}
