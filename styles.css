@@ -10,3 +10,7 @@
     display: flex;
     justify-content: space-between;
 }
+
+.middle {
+    justify-self: center;
+}
