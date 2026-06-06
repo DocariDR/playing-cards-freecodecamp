@@ -1,3 +1,6 @@
+body {
+    background: #00ee99;
+}
 
 #playing-cards {
     display: flex;
@@ -9,6 +12,7 @@
 .card {
     display: flex;
     justify-content: space-between;
+    background: #fff;
 }
 
 .left {
