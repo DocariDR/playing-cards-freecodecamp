@@ -13,8 +13,12 @@ body {
 
 .card {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     background: #fff;
+    width: 240px;
+    height: 380px;
+    padding: 2rem;
 }
 
 .left {
