@@ -8,6 +8,7 @@ body {
     justify-content: center;
     gap: 20px;
     width: 80%;
+    max-width: 900px;
     padding: 30px;
     margin: 0 auto;
 }
