@@ -45,4 +45,4 @@ Les symboles ♠ ♣ ♥ ♦ ne sont pas correctement interprétés par tous les
 
 ## Auteur
 
-Réalisé par [DocariDR](https://github.com/DocariDR) — dans le cadre du certificat *Responsive Web Design* de freeCodeCamp.
+Réalisé par [DocariDR](https://github.com/DocariDR) - dans le cadre du certificat *Responsive Web Design* de freeCodeCamp.
